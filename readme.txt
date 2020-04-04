@@ -3,3 +3,5 @@ Learning Git is going well so far.
 I added this line in the update-redme branch.
 It's cloudy outside today.
 Life is not worth living. I think I'll kill myself.
+On second thought, I'll wait.
+Now I'm ready.
