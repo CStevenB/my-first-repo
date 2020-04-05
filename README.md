@@ -8,8 +8,8 @@ New York City.
 
 ### Reading
 
-I just finished reading *Severance* by Ling Ma. Before that I 
-read *Convenience Store Woman* by Sayaka Morata.
+-  *Severance* by Ling Ma
+-  *Convenience Store Woman* by Sayaka Morata.
 
 ### Food
 
